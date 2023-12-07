@@ -1,4 +1,6 @@
-# Three Rings API-Always
+# Discontinued: Three Rings API-Always
+
+**This project is discontinued. In its current form it is incompatible with ManifestV3 and so cannot be installed into Chrome versions from mid-2024 onwards, and it doesn't appear to be being used.**
 
 Browser plugin for Chrome and Firefox. Given a
 *[Three Rings](https://www.3r.org.uk/)* API key, automatically passes
